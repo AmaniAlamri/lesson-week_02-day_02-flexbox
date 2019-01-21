@@ -53,7 +53,11 @@ Add your markup between the `<body>` tags in [flexbox-lab/index.html](flexbox-la
 Help the frogs reach the correct lilly pads using flexbox properties
 - http://flexboxfroggy.com/
 
+Finish early?  Try these other flexbox games!
+- http://www.flexboxdefense.com/
+- https://mastery.games/p/flexbox-zombies (must sign up)
+
 ## Additional Resources
 - [Visual Guide to Flexbox](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
-- [flexplorer](http://bennettfeely.com/flexplorer/)
+- [Flexplorer](http://bennettfeely.com/flexplorer/)
 - [Flexbox Demos](https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/)
